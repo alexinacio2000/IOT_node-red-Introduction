@@ -22,12 +22,12 @@ Abra o cmd e execute o seguinte comando: npm install -g --unsafe-perm node-red
 # 4° Executando 
 Após a instalação no cmd digite:
     1. node-red -> Isso irá começar a inicialização e te dará o server para começar a desenvolver
-    [Server](./src/server.png)
+    ![Server](./src/server.png);
 
-    2. Cole esse server no seu navegador e você será redirecionado para essa tela.
-    [Initial](./src/telaInicial.png)
+
+2. Cole esse server no seu navegador e você será redirecionado para essa tela.![Initial](./src/telaInicial.png)
 
 
 # 5° Executando seu primeiro comando
-[Server](./src/node.gif)
+![Server](./src/node.gif)
 
