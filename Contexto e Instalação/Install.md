@@ -25,7 +25,7 @@ Após a instalação no cmd digite:
     ![Server](./src/server.png);
 
 
-2. Cole esse server no seu navegador e você será redirecionado para essa tela.![Initial](./src/telaInitial.png
+2. Cole esse server no seu navegador e você será redirecionado para essa tela.![Initial](./src/telainicial.png
 )
 
 
